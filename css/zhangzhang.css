@@ -1,15 +1,15 @@
 /* 隐藏回到顶部按钮，替换为up酱 */
 
-#go-up i {
+go-up i {
     display: none;
     background-color: transparent !important;
 }
 
-#go-up {
+go-up {
     background-color: transparent !important;
 }
 
-#upj {
+upj {
     transform: translate(-70px, -80px) !important;
 }
 
@@ -22,7 +22,7 @@
 
 /* 博主昵称颜色 */
 .author-info__name {
-    color: #ff7242;
+    color: #12cf49;
 }
 
 /* a标签默认颜色 */
@@ -40,7 +40,7 @@
 }
 /*a标签颜色*/
 a {
-    color: #00c4b6;
+    color: #12cf49;
 }
 首页博客昵称颜色
 
@@ -50,7 +50,7 @@ a {
     color: #80bdab;
 }
 /* 顶部导航栏 */
-#nav a {
+nav a {
     color: #f9f2f4;
 }
 
